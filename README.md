@@ -1,1 +1,1 @@
-# radeb
+Radeb is an ecommerce store built as a microservice with five major services; product service, costomer service, order service, payment service and notification service. This is a Java backend application.
